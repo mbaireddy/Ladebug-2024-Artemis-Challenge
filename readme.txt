@@ -1,5 +1,6 @@
-Artemis Missing challenge 2025 for middleschool team
-(My role is a mentor and Ursina engine tutor)
+Club LA'DEBUG - lead mentor
+Artemis Mission challenge 2024 for middleschool team
+(mentor and Ursina engine tutor)
 
 Objective is to create an application, which displays the path of Artemis II by processing and visualizing all provided position data for the mission.
 
